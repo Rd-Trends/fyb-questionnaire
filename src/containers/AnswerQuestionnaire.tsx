@@ -60,7 +60,7 @@ const AnswerQuestionnaire = () => {
       options: undefined,
     },
     {
-      question: "One word to descripe DELSU?",
+      question: "One word to describe DELSU?",
       type: "text",
       options: undefined,
     },
